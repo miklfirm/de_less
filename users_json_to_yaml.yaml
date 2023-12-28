@@ -1,0 +1,15 @@
+- age: '34'
+  balance: '146.5'
+  id: '1'
+  name: miklushov
+  nickname: mikl
+- age: '30'
+  balance: '0.0'
+  id: '2'
+  name: ivanov
+  nickname: boba
+- age: '33'
+  balance: '100'
+  id: '3'
+  name: petrov
+  nickname: pipka
